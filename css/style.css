@@ -9,10 +9,11 @@ form input{
     border: none;
     outline: none;
     font-size: 1.2rem;
+    margin: 10px;
 }
 form label{
     font-size: 1.2rem;
-    color: #fff;
+    color: black;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 form{
@@ -20,4 +21,8 @@ form{
     height: 50%;
     margin-right: 25%;
     margin-left:25% ;
+}
+h3{
+    font-size: 1.5rem;
+    font-family: 'Times New Roman', Times, serif
 }
