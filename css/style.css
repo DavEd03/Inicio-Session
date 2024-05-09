@@ -21,6 +21,7 @@ form{
     height: 50%;
     margin-right: 25%;
     margin-left:25% ;
+    border-color: black;
 }
 h3{
     font-size: 1.5rem;
