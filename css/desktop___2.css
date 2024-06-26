@@ -1,0 +1,356 @@
+/*
+	@name desktop___2
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 1024px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_desktop___2_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__desktop___2_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_1 {
+	top: 930px;
+	left: 0px;
+	width: 1440px;
+	height: 94px;
+	background:rgba(127,28,0,1);
+}
+
+
+#pizza_man {
+	top: 936px;
+	left: 24px;
+	width: 381px;
+	height: 134px;
+	overflow: hidden;
+	font-family: Langar;
+	font-size: 64px;
+	text-align: center;
+	color:#F4DCC0;
+}
+
+
+#rectangle_2 {
+	top: 123px;
+	left: 0px;
+	width: 1032px;
+	height: 808px;
+	background:rgba(233,150,40,1);
+}
+
+
+#rectangle_6 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 122px;
+	background:rgba(127,28,0,1);
+}
+
+
+#unnamed_1 {
+	top: 2px;
+	left: 1289px;
+	width: 151px;
+	height: 120px;
+}
+
+
+#total_a_pagar_ {
+	top: 734px;
+	left: 1037px;
+	width: 201px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_7 {
+	top: 829px;
+	left: 1067px;
+	width: 316px;
+	height: 43px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(214,120,57,1);
+}
+
+
+#pagar {
+	top: 829px;
+	left: 1100px;
+	width: 250px;
+	height: 60px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 32px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#realizar_el_pedido {
+	top: 18px;
+	left: 21px;
+	width: 616px;
+	height: 150px;
+	overflow: hidden;
+	font-family: Langar;
+	font-size: 64px;
+	text-align: center;
+	color:#F4DCC0;
+}
+
+
+#resumen_del_pedido {
+	top: 211px;
+	left: 1066px;
+	width: 319px;
+	height: 67px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 32px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#tama_o_de_pizza_ {
+	top: 440px;
+	left: 1034px;
+	width: 234px;
+	height: 51px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#cantidad_ {
+	top: 370px;
+	left: 1028px;
+	width: 169px;
+	height: 62px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#ingredientes_ {
+	top: 487px;
+	left: 1021px;
+	width: 225px;
+	height: 76px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#seleccione_el_tama_o {
+	top: 327px;
+	left: 28px;
+	width: 492px;
+	height: 119px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 48px;
+	text-align: center;
+	color:#F5DFCB;
+}
+
+
+#seleccione_los_ingredientes {
+	top: 440px;
+	left: 28px;
+	width: 608px;
+	height: 128px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 48px;
+	text-align: center;
+	color:#F5DFCB;
+}
+
+
+#agregue_los_extras {
+	top: 563px;
+	left: 28px;
+	width: 432px;
+	height: 119px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 48px;
+	text-align: center;
+	color:#F5DFCB;
+}
+
+#group_2 {
+	top: 772px;
+	left: 767px;
+	width: 91px;
+	height: 88px;
+}
+
+#rectangle_8 {
+	top: 0px;
+	left: 0px;
+	width: 91px;
+	height: 88px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(214,120,57,1);
+}
+
+#frame {
+	top: 4px;
+	left: 0px;
+	width: 91px;
+	height: 84px;
+}
+
+#vector {
+	top: 17.5px;
+	left: 18.96px;
+	width: 53.08px;
+	height: 49px;
+}
+
+#group_1 {
+	top: 344px;
+	left: 619px;
+	width: 363px;
+	height: 49px;
+}
+
+#rectangle_9 {
+	top: 0px;
+	left: 0px;
+	width: 363px;
+	height: 49px;
+	background:rgba(255,255,255,1);
+}
+
+#frame_ek1 {
+	top: 0px;
+	left: 306px;
+	width: 49px;
+	height: 49px;
+}
+
+#vector_ek1 {
+	top: 20.42px;
+	left: 14.29px;
+	width: 20.42px;
+	height: 10.21px;
+}
+
+#group_3 {
+	top: 580px;
+	left: 615px;
+	width: 363px;
+	height: 49px;
+}
+
+#rectangle_9_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 363px;
+	height: 49px;
+	background:rgba(255,255,255,1);
+}
+
+#frame_ek2 {
+	top: 0px;
+	left: 306px;
+	width: 49px;
+	height: 49px;
+}
+
+#vector_ek2 {
+	top: 20.42px;
+	left: 14.29px;
+	width: 20.42px;
+	height: 10.21px;
+}
+
+#group_4 {
+	top: 468px;
+	left: 619px;
+	width: 363px;
+	height: 49px;
+}
+
+#rectangle_9_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 363px;
+	height: 49px;
+	background:rgba(255,255,255,1);
+}
+
+#frame_ek3 {
+	top: 0px;
+	left: 306px;
+	width: 49px;
+	height: 49px;
+}
+
+#vector_ek3 {
+	top: 20.42px;
+	left: 14.29px;
+	width: 20.42px;
+	height: 10.21px;
+}
+
+
+
+/* Add your custom CSS here */

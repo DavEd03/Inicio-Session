@@ -1,0 +1,241 @@
+/*
+	@name desktop___1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 1024px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_desktop___1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__desktop___1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 94px;
+	background:rgba(127,28,0,1);
+}
+
+
+#rectangle_2 {
+	top: 94px;
+	left: 602px;
+	width: 556px;
+	height: 930px;
+	background:rgba(233,150,40,1);
+}
+
+
+#deliciosa_pizza_interior_23_2150873912_1 {
+	top: 94px;
+	left: 0px;
+	width: 602px;
+	height: 930px;
+}
+
+
+#bienvenido {
+	top: 153px;
+	left: 769px;
+	width: 328px;
+	height: 98px;
+	overflow: hidden;
+	font-family: Kdam Thmor;
+	font-size: 40px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#inicio_de_sesi_n_ {
+	top: 320px;
+	left: 618px;
+	width: 220px;
+	height: 63px;
+	overflow: hidden;
+	font-family: Kdam Thmor;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#usuario_ {
+	top: 427px;
+	left: 652px;
+	width: 142px;
+	height: 44px;
+	overflow: hidden;
+	font-family: Kdam Thmor;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#contrase_a_ {
+	top: 502px;
+	left: 652px;
+	width: 149px;
+	height: 47px;
+	overflow: hidden;
+	font-family: Kdam Thmor;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_3 {
+	top: 432px;
+	left: 774px;
+	width: 236px;
+	height: 27px;
+	background:rgba(253,238,217,1);
+}
+
+
+#rectangle_4 {
+	top: 507px;
+	left: 774px;
+	width: 236px;
+	height: 23px;
+	background:rgba(253,238,217,1);
+}
+
+
+#rectangle_5 {
+	top: 600px;
+	left: 701px;
+	width: 309px;
+	height: 55px;
+}
+
+
+#inicio_de_sesi_n {
+	top: 612px;
+	left: 781px;
+	width: 174px;
+	height: 44px;
+	overflow: hidden;
+	font-family: Kdam Thmor;
+	font-size: 20px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#__no_tienes_cuenta__registrate {
+	top: 678px;
+	left: 743px;
+	width: 230.5px;
+	height: 44.5px;
+	overflow: hidden;
+	font-family: Kdam Thmor;
+	font-size: 15px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#unnamed_1 {
+	top: 743px;
+	left: 1145px;
+	width: 295px;
+	height: 281px;
+}
+
+
+#pizza_man {
+	top: 3px;
+	left: -8px;
+	width: 381px;
+	height: 134px;
+	overflow: hidden;
+	font-family: Langar;
+	font-size: 64px;
+	text-align: center;
+	color:#F4DCC0;
+}
+
+
+#la_soluci_n_a_tu_antojo {
+	top: 32px;
+	left: 514px;
+	width: 884px;
+	height: 78px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 64px;
+	text-align: center;
+	color:#E2BF9A;
+}
+
+
+#facebook_icon_2013_svg_1 {
+	top: 965px;
+	left: 1011px;
+	width: 50px;
+	height: 50px;
+}
+
+
+#download_1 {
+	top: 965px;
+	left: 1079px;
+	width: 50px;
+	height: 50px;
+}
+
+
+#siguenos_en_redes_sociales_ {
+	top: 919px;
+	left: 978px;
+	width: 192px;
+	height: 66px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+
+#__tienes_dudas___cont_ctanos {
+	top: 990px;
+	left: 604px;
+	width: 227px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+
+
+/* Add your custom CSS here */
